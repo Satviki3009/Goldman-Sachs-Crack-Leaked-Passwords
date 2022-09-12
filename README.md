@@ -20,4 +20,6 @@ What would you change in the password policy to make breaking the passwords hard
 PROJECT REPORT & OBSERVATIONS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Linked below is a data file containing all the hashes dumped together:
-password_dump.txt
+https://github.com/Satviki3009/Goldman-Sachs-Crack-Leaked-Passwords/blob/f3c3c220953a64b2b0c416bd9fb12eeb76e6c18e/password_dump.txt
+
+Using https://crackstation.net/ I cracked the given passwords & narrowed down my observations into this report. 
