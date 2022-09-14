@@ -45,3 +45,5 @@ Ans: i) The password limit should be set to minimum 8 characters.
 ii) Use of atleast 1 special caracter ($ , % , & ...) along with uppercase letters should be mandatory.
 iii) Avoid common words, DOB's or any other personal information. 
 iv) A software that suggests changes to make the password stronger
+
+The full report can be found at https://github.com/Satviki3009/Goldman-Sachs-Crack-Leaked-Passwords/blob/6a1e1e7bafbd3b238ce198276656921d93b4df43/GOLDMAN%20SACHS%20VIRTUAL%20PROGRAMME%20REPORT%20-%20SATVIKI%20SHUKLA.docx
